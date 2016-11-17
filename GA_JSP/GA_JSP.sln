@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GA_JSP", "GA_JSP.vcxproj", "{0BB3482C-C0A4-40D3-8F4D-C0DEF9E06709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB3482C-C0A4-40D3-8F4D-C0DEF9E06709}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0BB3482C-C0A4-40D3-8F4D-C0DEF9E06709}.Debug|Win32.Build.0 = Debug|Win32
+		{0BB3482C-C0A4-40D3-8F4D-C0DEF9E06709}.Release|Win32.ActiveCfg = Release|Win32
+		{0BB3482C-C0A4-40D3-8F4D-C0DEF9E06709}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
